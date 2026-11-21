@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amasha Keshani</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h3 align="center">An Undergraduate Student in University of Kelaniya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshanirp&label=Profile%20views&color=0e75b6&style=flat" alt="keshanirp" /> </p>
+- 👩🏻‍🎓 I'm currently following **B.Sc. Honours in Management and Information Technology (MIT)** degree program.
 
-- 🌱 I’m currently learning **Python,C++,Java,HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **Python,C++,Java,HTML,CSS,JavaScript,MySQL**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTML,MySQL**
 
 - 📫 How to reach me **sanduniamasha876@gmail.com**
 
