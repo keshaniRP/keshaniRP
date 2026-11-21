@@ -5,9 +5,9 @@
 
 - 👩🏻‍🎓 I’m currently following **B.Sc. Honours in Management and Information Technology (MIT)** degree program
 
-- 🌱 I’m currently learning **Python,C++,Java,HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **MySQL,Python,C++,Java,HTML,CSS,JavaScript**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **MySQL,HTML**
 
 - 📫 How to reach me **sanduniamasha876@gmail.com**
 
