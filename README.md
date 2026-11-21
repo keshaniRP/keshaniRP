@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amasha Keshani</h1>
 <h3 align="center">An Undergraduate Student in University of Kelaniya.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshanirp&label=Profile%20views&color=0e75b6&style=flat" alt="keshanirp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=keshanirp&label=Profile%20views&color=0e75b6&style=flat" alt="keshanirp" /> </p>
 
 - 👩🏻‍🎓 I’m currently following **B.Sc. Honours in Management and Information Technology (MIT)** degree program
 
